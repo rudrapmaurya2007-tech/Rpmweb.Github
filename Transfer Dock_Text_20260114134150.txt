@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GodSolo | Gaming Community</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+    <div class="logo">🎮 GodSolo</div>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#community">Community</a>
+        <a href="#join">Join</a>
+    </nav>
+</header>
+
+<section id="home" class="hero">
+    <h1>BUILD SOLO.<br><span>DOMINATE TOGETHER.</span></h1>
+    <p>A gaming & creator community for grinders, developers, and warriors.</p>
+    <button>Join GodSolo</button>
+</section>
+
+<section id="about">
+    <h2>🔥 Our Mission</h2>
+    <p>
+        GodSolo is a next-gen gaming and creator hub where solo players sharpen skills,
+        build projects, and rise as legends.
+    </p>
+</section>
+
+<section id="community">
+    <h2>⚔️ Community Power</h2>
+    <div class="cards">
+        <div class="card">🎮 Pro Gamers</div>
+        <div class="card">💻 Developers</div>
+        <div class="card">🎥 Content Creators</div>
+    </div>
+</section>
+
+<section id="join">
+    <h2>🚀 Ready to Enter?</h2>
+    <p>Level up your grind with GodSolo.</p>
+    <button class="glow">Enter Arena</button>
+</section>
+
+<footer>
+    <p>© 2026 GodSolo • Built for Gamers</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
