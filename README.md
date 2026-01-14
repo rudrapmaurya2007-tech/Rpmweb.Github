@@ -1,0 +1,2 @@
+# GodSolo
+Gaming Community Website
